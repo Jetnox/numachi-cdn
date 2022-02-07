@@ -1,6 +1,5 @@
 ## Privacy Policy
 
----
 ### What information do we collect?
 We collect information from you when you register on our site and gather data when you participate in the forum by reading, writing, and evaluating the content shared here.
 
